@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Java/Recycler View Multiple Views/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Android Java/Recycler View Multiple Views/app/src/main/res/layout/item_container_trip.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Java/Recycler View Multiple Views/app/src/main/res/layout/item_container_ads.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Java/Recycler View Multiple Views/app/src/main/res/layout/item_container_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Java/Recycler View Multiple Views/app/src/main/res/layout/item_container_trip.xml" value="0.1" />
       </map>
     </option>
   </component>
